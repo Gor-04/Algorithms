@@ -1,0 +1,3 @@
+﻿  HeapSort.cpp
+C:\Users\user\source\repos\HeapSort\HeapSort.cpp(77,12): warning C4129: ' ': unrecognized character escape sequence
+  HeapSort.vcxproj -> C:\Users\user\source\repos\Algorithms\x64\Debug\HeapSort.exe
