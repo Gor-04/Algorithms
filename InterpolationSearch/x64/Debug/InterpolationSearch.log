@@ -1,0 +1,3 @@
+﻿  InterpolationSearch.cpp
+C:\Users\user\source\repos\InterpolationSearch\InterpolationSearch.cpp(18,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  InterpolationSearch.vcxproj -> C:\Users\user\source\repos\Algorithms\x64\Debug\InterpolationSearch.exe

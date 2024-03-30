@@ -1,0 +1,7 @@
+﻿  MergeSort.cpp
+C:\Users\user\source\repos\MergeSort\MergeSort.cpp(25,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\MergeSort\MergeSort.cpp(29,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\MergeSort\MergeSort.cpp(36,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\MergeSort\MergeSort.cpp(42,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\MergeSort\MergeSort.cpp(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MergeSort.vcxproj -> C:\Users\user\source\repos\Algorithms\x64\Debug\MergeSort.exe
