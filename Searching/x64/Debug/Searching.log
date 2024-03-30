@@ -1,0 +1,3 @@
+﻿  Searching.cpp
+C:\Users\user\source\repos\Searching\Searching.cpp(18,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Searching.vcxproj -> C:\Users\user\source\repos\Algorithms\x64\Debug\Searching.exe
